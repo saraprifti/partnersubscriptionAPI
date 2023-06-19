@@ -12,7 +12,7 @@ This is an API implementation in Python using Flask framework for managing subsc
 
 ## Installation
 
-1. Clone the repository `git clone https://github.com/your/repository.git`
+1. Clone the repository `git clone https://github.com/saraprifti/FeelRoboticsAPI.git`
 2. Install requirements `pip install -r requirements.txt`
 3. Run `python3 -m venv .venv`
 3. Run `. .venv/bin/activate`
